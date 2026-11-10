@@ -1,0 +1,11 @@
+{
+  "bot": "Yapster · Prompt & Spec Interviewer",
+  "version": 4,
+  "released": "2026-11-09",
+  "changelog": [
+    "Added a Plain Mode on/off switch. Say 'Plain Mode on' for short, plain-English specs.",
+    "Added a weekly version check that asks before any update.",
+    "One Marketplace card under the normal Yapster name."
+  ],
+  "template_link": ""
+}
